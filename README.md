@@ -15,3 +15,13 @@ Here are some ideas to get you started:
 # Dero Lee
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldr0629&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+## Tech
+### Languages
+
+- C/C++
+- Python
+
+### Problem Solving
+
+- <a href="https://www.acmicpc.net/user/dleofh01">Baekjoon</a>
+- <a href="https://www.codeup.kr/userinfo.php?user=dleofh012">Codeup</a>
