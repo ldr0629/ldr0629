@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![dleofh01's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dleofh01)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={dleofh01})](https://solved.ac/{handle})
 
