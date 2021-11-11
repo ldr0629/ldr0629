@@ -12,11 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## thlco's info
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldr0629&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dleofh01)](https://solved.ac/dleofh01)
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/#A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 
