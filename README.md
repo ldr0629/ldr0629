@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![ldr0629's github stats](https://github-readme-stats.vercel.app/api?username=ldr0629)](https://github.com/anuraghazra/github-readme-stats)
+
+![dleofh01's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dleofh01)
+
