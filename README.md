@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## thlco's info
+# Dero Lee
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldr0629&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
