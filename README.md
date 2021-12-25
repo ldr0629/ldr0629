@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 - C/C++
 - Python
+- HTML5, CSS, JavaScript
 
 ### Problem Solving
 
@@ -28,5 +29,6 @@ Here are some ideas to get you started:
 
 ### be learning
 
-<img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
+- Java
+- Spring
+<img src="https://img.shields.io/badge/JavaScript?style=flat-square&logo=JavaScript-F7DF1E?&logoColor=white"/></a>&nbsp 
