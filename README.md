@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 
 - <a href="https://www.acmicpc.net/user/dleofh01">Baekjoon</a>
 - <a href="https://www.codeup.kr/userinfo.php?user=dleofh012">Codeup</a>
+
+### be learning
+
+<img src="https://img.shields.io/badge/Java-#007396?style=social&logo=Java&logoColor=white"/></a>&nbsp
