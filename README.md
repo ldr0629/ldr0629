@@ -12,23 +12,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄 # About Me
-[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dleofh01)](https://solved.ac/dleofh01)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldr0629&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+# 😄 About Me
+
+Email : leedero01@naver.com <br>
+Blog : https://6ro-29.tistory.com/ <br>
 
 ## Tech
-⭐️### Languages
+
+### ⭐️ Languages
 
 - C/C++
 - Python
 - HTML5, CSS, JavaScript
 
-⭐️### be learning
+
+### ⭐️ be learning
 
 - Java
 - Spring
 
-⭐️### Problem Solving
+
+### ⭐️ Problem Solving
 
 - <a href="https://www.acmicpc.net/user/dleofh01">Baekjoon</a>
 - <a href="https://www.codeup.kr/userinfo.php?user=dleofh012">Codeup</a>
+
+## Cards
+
+[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dleofh01)](https://solved.ac/dleofh01) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldr0629&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
