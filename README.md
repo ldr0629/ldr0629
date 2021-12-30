@@ -34,8 +34,8 @@ Blog : https://6ro-29.tistory.com/ <br>
 
 <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQeury&logoColor=white"/></a>
-
+<a><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQeury&logoColor=white"/></a> <br>
+<a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 
 
 ### ⭐️ Problem Solving
