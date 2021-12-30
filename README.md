@@ -46,5 +46,5 @@ Blog : https://6ro-29.tistory.com/ <br>
 ## Cards
 
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dleofh01)](https://solved.ac/dleofh01) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldr0629&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldr0629&show_icons=true&theme=radical)
