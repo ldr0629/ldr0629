@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 
 # 😄 About Me
 
-Email : leedero01@naver.com <br>
-Blog : https://6ro-29.tistory.com/ <br>
+Email : <a><img src="https://img.shields.io/badge/leedero01@naver.com-EA4335?style=flat-square&logo=leedero01@naver.com&logoColor=white"/></a> <br>
+Blog :  &nbsp;<a href="https://6ro-29.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-09B3AF?style=flat-square&logo=Tistory&logoColor=white"/></a>
+
 
 ## Tech
 
@@ -24,7 +25,8 @@ Blog : https://6ro-29.tistory.com/ <br>
 
 <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> <br>
+<a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> <br>
 <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
@@ -32,9 +34,7 @@ Blog : https://6ro-29.tistory.com/ <br>
 
 ### ⭐️ be learning
 
-<a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQeury&logoColor=white"/></a> <br>
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 
 
@@ -46,5 +46,3 @@ Blog : https://6ro-29.tistory.com/ <br>
 ## Cards
 
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dleofh01)](https://solved.ac/dleofh01) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldr0629&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldr0629&show_icons=true&theme=radical)
