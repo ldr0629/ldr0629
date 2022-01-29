@@ -48,5 +48,5 @@ Blog :  &nbsp;<a href="https://6ro-29.tistory.com/" target="_blank"><img src="ht
 
 ## Cards
 
-[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dleofh01)](https://solved.ac/dleofh01) 
+[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dleofh01)](https://solved.ac/dleofh01) <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldr0629&show_icons=true&theme=dracula)
