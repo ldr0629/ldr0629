@@ -38,6 +38,7 @@ Blog :  &nbsp;<a href="https://6ro-29.tistory.com/" target="_blank"><img src="ht
 ### ⭐️ be learning
 
 <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 
 
