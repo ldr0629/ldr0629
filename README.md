@@ -47,15 +47,16 @@ Blog :  &nbsp;<a href="https://6ro-29.tistory.com/" target="_blank"><img src="ht
 
 <a><img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/></a> <br>
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a> 
 
 ## 📫 Studying
 
 <a><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=SpringDataJpa&logoColor=white"/></a> <br>
 <a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=SpringDataJpa&logoColor=white"/></a> 
 
 ## 🖥 PS
 
