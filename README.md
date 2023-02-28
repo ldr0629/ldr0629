@@ -40,6 +40,7 @@ Blog :  &nbsp;<a href="https://6ro-29.tistory.com/" target="_blank"><img src="ht
 <a><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> 
 <a><img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> <br>
 <a><img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=SpringDataJpa&logoColor=white"/></a> 
+<a><img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=SpringDataJpa&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>
 
@@ -54,7 +55,6 @@ Blog :  &nbsp;<a href="https://6ro-29.tistory.com/" target="_blank"><img src="ht
 ## 📫 Studying
 
 <a><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=SpringDataJpa&logoColor=white"/></a> <br>
 <a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
 
