@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Email : <a><img src="https://img.shields.io/badge/leedero01@naver.com-EA4335?style=flat-square&logo=leedero01@naver.com&logoColor=white"/></a> <br>
 Blog :  &nbsp;<a href="https://6ro-29.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-09B3AF?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
-<p> Hi, there 👋. <br> I am Daero Lee who is interested in Backend development skills, algorithm problem solving from South Korea. </p>
+<p> Hi, there 👋. <br> I am Dero Lee who is interested in Backend development skills, algorithm problem solving from South Korea. </p>
 <p> I majoring in Department of Software and Communications Engineering in university. </p> 
 
 <hr>
